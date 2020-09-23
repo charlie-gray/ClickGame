@@ -1,0 +1,10 @@
+C:\Users\rar xd uwu\Desktop\sdl\Clicker Game\Clicker Game\obj\Debug\Clicker Game.csprojAssemblyReference.cache
+C:\Users\rar xd uwu\Desktop\sdl\Clicker Game\Clicker Game\obj\Debug\Clicker_Game.Form1.resources
+C:\Users\rar xd uwu\Desktop\sdl\Clicker Game\Clicker Game\obj\Debug\Clicker_Game.Properties.Resources.resources
+C:\Users\rar xd uwu\Desktop\sdl\Clicker Game\Clicker Game\obj\Debug\Clicker Game.csproj.GenerateResource.cache
+C:\Users\rar xd uwu\Desktop\sdl\Clicker Game\Clicker Game\obj\Debug\Clicker Game.csproj.CoreCompileInputs.cache
+C:\Users\rar xd uwu\Desktop\sdl\Clicker Game\Clicker Game\bin\Debug\Clicker Game.exe.config
+C:\Users\rar xd uwu\Desktop\sdl\Clicker Game\Clicker Game\bin\Debug\Clicker Game.exe
+C:\Users\rar xd uwu\Desktop\sdl\Clicker Game\Clicker Game\bin\Debug\Clicker Game.pdb
+C:\Users\rar xd uwu\Desktop\sdl\Clicker Game\Clicker Game\obj\Debug\Clicker Game.exe
+C:\Users\rar xd uwu\Desktop\sdl\Clicker Game\Clicker Game\obj\Debug\Clicker Game.pdb
